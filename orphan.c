@@ -4,7 +4,7 @@
  
 int main() 
 {   
-  printf("Abhinav Singh Yadav StudentId-20011780\n");
+  printf("Abhinav Singh Yadav \n");
    int process = fork();
    if(process>0) 
    { 
