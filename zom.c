@@ -8,7 +8,7 @@ int main()
   
    int process = fork();
 
-   printf("Abhinav Singh Yadav StudentId-20011780\n");
+   printf("Abhinav Singh Yadav \n");
    if(process>0) 
   {   sleep(2); 
   printf("\nFrom Parent Process \n "); 
