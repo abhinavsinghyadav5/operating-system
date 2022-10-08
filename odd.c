@@ -7,7 +7,7 @@ int main()
    int arr[5]={1,2,3,4,5}; 
    int pid=fork(); 
 
-  printf("Abhinav Singh Yadav StudentId-20011780\n");
+  printf("Abhinav Singh Yadav \n");
  
   if(pid!=0) 
 { 
